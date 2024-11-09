@@ -1,2 +1,3 @@
 # GitDemo
-Author - Onkar Bhawar
+Author - Onkar Bhawar.
+This is a worshop on git.
